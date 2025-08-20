@@ -10,7 +10,7 @@ layers:
     - [{t: LOWER, h: MO}, ␣ SPC, ⌥ LALT, ⎈ LCTRL, ⇧ LSFT, {t: UPPER, h: MO}]
   Lower:
     - [{t: 1, h: LALT}, {t: 2, h: LGUI}, {t: 3, h: LCTL}, {t: 4, h: LSFT}, LAUNCHER, ⇤ ⇤, ⌦ DEL, 🡅 UP, ⌫ BSPC, ↹ TAB]
-    - [⌥ LALT, ⊞ LGUI, ⎈ LCTRL, ⇧ LSFT, '', ← LEFT, 🡇 DOWN, 🡆 RIGHT, ⮠ ENTER, '']
+    - [⌥ LALT, ⊞ LGUI, ⎈ LCTRL, ⇧ LSFT, '', 🡄 LEFT, 🡇 DOWN, 🡆 RIGHT, ⮠ ENTER, '']
     - [⌥ RALT, {t: ⇤⇤, h: LCS_TAB}, ⌃ C, ⌃ ⇥, ⌃ V, (, ;, ), '', '']
     - [{t: ▽, type: held}, '', '', '', ⮠ ENTER, ▽]
   Upper:
