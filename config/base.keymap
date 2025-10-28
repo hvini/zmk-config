@@ -186,7 +186,7 @@
         &trans /*↓*/ &none        &none        &none        &none            &none        &kp F1       &kp F2       &kp F3       &kp F10
    // ╰──────────────────────────────────────────────────────────────────┤ ├──────────────────────────────────────────────────────────────────╯
 #ifdef CONFIG_36_KEYS
-                                  &none        &kp LCTL     &none            &none        &kp LSHIFT   &kp LALT
+                                  &mo SYSTEM   &kp LCTL     &none            &none        &kp LSHIFT   &kp LALT
 #else
                                   &none        &kp LCTL                                   &kp LSHIFT   &kp LALT
 #endif // CONFIG_36_KEYS
