@@ -21,7 +21,7 @@ manifest:
     # Zephyr with a path other than `zephyr` (as in `going-modular`).
     - name: zmk
       remote: upstream
-      revision: ac7f75b8
+      revision: main
       import: app/west.yml
       # path: .
       # import:
